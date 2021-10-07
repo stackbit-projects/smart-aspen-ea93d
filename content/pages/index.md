@@ -1,26 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
-    image: images/hero.png
-    image_alt: A smiling woman
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 8
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
@@ -112,7 +92,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
     subtitle: What My Clients Say
     grid_items:
       - content: >-
